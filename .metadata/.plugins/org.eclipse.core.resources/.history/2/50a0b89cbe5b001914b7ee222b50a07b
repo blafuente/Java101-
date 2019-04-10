@@ -1,0 +1,13 @@
+package java_basics;
+
+public class VariablesContinued {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int var = 10000;
+		long bigNumber = 1000000000000000L;
+		// with Long data types, add an "L" at the end. 
+		
+	}
+
+}
