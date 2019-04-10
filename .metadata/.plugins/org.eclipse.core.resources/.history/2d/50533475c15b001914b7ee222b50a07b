@@ -1,0 +1,11 @@
+package java_basics;
+
+public class LearningArrays {
+
+	public static void main(String[] args) {
+
+		int [] values = new int [100]; // Array will store 100 elements, fixed value.
+		values[2] = 1000;
+	}
+
+}

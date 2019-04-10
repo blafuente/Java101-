@@ -16,9 +16,9 @@ public class LearningArrays {
 		
 		
 		String [] words = new String[3];
-		words[0] = "My";
-		words[1] = "Name";
-		words[2] = "is";
+		words[0]= "My";
+		words[1]= "Name";
+		words[2]= "is";
 		
 		System.out.println(words[2]);
 	}
